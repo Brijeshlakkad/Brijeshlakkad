@@ -1,6 +1,7 @@
 ### Hi there!
 
 I'm working on **goutube** and **ring** (go utility to build peer-to-peer architecture easily) to optimize the multi-stream protocol. I earlier developed these utilities to help developers build largely-scalable, highly available, fast, secure ***distributed*** streaming APIs!
+The Multi-stream protocol is a protocol streaming of the same resource from multiple servers (each server streaming a specific portion) to a single client. Read More about this protocol at Goutube README.md.
 
 ### Useful books
 [Foundations of Scalable Systems By Ian Gorton](https://learning.oreilly.com/library/view/foundations-of-scalable/9781098106058/) and [Distributed Services with Go By Travis Jeffery](https://learning.oreilly.com/library/view/distributed-services-with/9781680508376/) - allowed me to have strong understanding and expertise in building the scalable distributed systems!
